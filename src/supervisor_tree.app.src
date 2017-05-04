@@ -1,0 +1,9 @@
+{application, supervisor_tree,
+  [ {description, "Utility for Erlang Supervisor"},
+    {vsn, "0.1"},
+    {modules, []},
+    {registered, []},
+    {applications, []},
+    {env, []} 
+  ]
+}.

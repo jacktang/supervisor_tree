@@ -43,3 +43,8 @@ init([handler_sup, HandlerConf]) ->
 init(_) ->
   supervisor_tree:empty_sup().
 ```
+
+# Contributors
+
+* [Slepher Chen](https://github.com/slepher)
+* Jack Tang
